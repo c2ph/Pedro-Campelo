@@ -8,7 +8,7 @@ I build apps, then learn how to break them.
 - Offensive security on TryHackMe and Hack The Box
 - Web application security with the PortSwigger Web Security Academy
 
-### 🛠️ What I build
+### 🛠️ What I've built
 - **GarageCheck**: a mobile inspection app for UK independent garages (Flutter, Android first)
 - Python scripts and tools, including security tooling as I learn
 
